@@ -1,1 +1,1 @@
-All of my dotfiles, structured as if they were in my $HOME directory.
+All of my dotfiles as if they are in my **$HOME** directory.
